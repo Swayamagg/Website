@@ -1,0 +1,25 @@
+.col a{
+  text-decoration: none;
+  display: ruby-text;
+  color: #666666;
+}
+.col p{
+font-weight: 500;
+}
+
+.col a:hover{
+  color: #387ed1;
+}
+
+.link a{
+  text-decoration: none;
+  display: inline;
+  font-size: 0.9rem;
+  margin-right: 20px;
+    color: #666666;
+}
+
+.link a:hover{
+    color: #387ed1;
+
+}
