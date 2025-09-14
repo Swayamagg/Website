@@ -3,7 +3,7 @@ import React from 'react';
 let styles={
     marginRight:"7rem"
 }
-function OpenAccount(params) {
+function OpenAccount() {
     return(
         <>
         <div className='container p-5 mt-3' style={styles}>
