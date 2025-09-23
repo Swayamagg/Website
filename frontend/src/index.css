@@ -23,3 +23,20 @@ font-weight: 500;
     color: #387ed1;
 
 }
+
+#support{
+  background-color: #f8f9fa;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin:0 60px;
+  margin-top: "-30px";
+}
+
+
+.search{
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: #dedee3 !important;
+}
